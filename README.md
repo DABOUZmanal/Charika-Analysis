@@ -74,12 +74,3 @@ This project helped me practice:
 - Adding titles, labels, legends, and grids
 - Understanding basic data visualization
 
-## 👩‍💻 Author
-
-**Houda Manal Dabouz**
-
-Computer Science / Information Systems
-
-## 📄 License
-
-This project is created for learning and educational purposes.
