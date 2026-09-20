@@ -48,12 +48,6 @@ Or:
 pip install -r requirements.txt
 ```
 
-## ▶️ Run the Project
-
-```bash
-python company_analysis.py
-```
-
 ## 🎯 Learning Objectives
 
 This project helped me practice:
