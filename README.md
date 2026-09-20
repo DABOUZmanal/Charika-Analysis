@@ -8,12 +8,6 @@ This project simulates a company's daily **sales**, **costs**, and **income** ov
 
 The data is generated randomly and organized into a Pandas DataFrame for analysis and visualization.
 
-### 💰 Income Calculation
-
-```python
-Income = Sales - Cost
-```
-
 ## 🛠️ Technologies Used
 
 - 🐍 Python
