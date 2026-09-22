@@ -25,15 +25,6 @@ The project creates a line chart to compare:
 
 The chart includes markers, different line styles, labels, a legend, and a grid.
 
-## 📂 Project Structure
-
-```text
-company-analysis/
-├── company_analysis.py
-├── README.md
-└── requirements.txt
-```
-
 ## 🚀 Installation
 
 Install the required libraries:
