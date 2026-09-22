@@ -33,12 +33,6 @@ Install the required libraries:
 pip install numpy pandas matplotlib
 ```
 
-Or:
-
-```bash
-pip install -r requirements.txt
-```
-
 ## 🎯 Learning Objectives
 
 This project helped me practice:
